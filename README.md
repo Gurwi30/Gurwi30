@@ -1,9 +1,9 @@
 # 💫 **Gurwi Works**
-**`Software Developer from Italy`**
+<a><img alt="Discord" width="110px" src="https://custom-icon-badges.demolab.com/badge/-%20@gurwi-005ce6?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a><img href="t.me/Gurwi30" alt="Telegram" width="125x" src="https://custom-icon-badges.demolab.com/badge/-%20@Gurwi30-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<a><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-%20Discord-005ce6?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-%20Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Athlas%20Development-black?style=for-the-badge&logo=x&logoColor=white"></a>
+![](https://dcbadge.vercel.app/api/398874516987576321)
+[![](https://dcbadge.vercel.app/api/server/BCzbSnZF5Q)](https://discord.gg/BCzbSnZF5Q)
 #
 <h3>👨‍💻 Languages and Tools</h3>
 <p>
