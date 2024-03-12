@@ -41,5 +41,5 @@
 #
 <h3>📊 Stats</h3>
 
-<img align="left" alt="Gurwi's GitHub Stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=gurwi30&show_icons=true&theme=github_dark">
-<img align="left" alt="Gurwi's Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurwi30&theme=github_dark&layout=compact">
+<img align="left" alt="Gurwi's GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=gurwi30&show_icons=true&theme=github_dark">
+<img align="left" alt="Gurwi's Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurwi30&theme=github_dark&layout=compact">
