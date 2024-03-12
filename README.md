@@ -1,8 +1,9 @@
 # 💫 **Gurwi Works**
 **`Software Developer from Italy`**
 
-
-
+<a><img alt="Discord" src="https://custom-icon-badges.demolab.com/badge/-%20Discord-005ce6?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-%20Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a><img alt="Telegram" src="https://custom-icon-badges.demolab.com/badge/-Athlas%20Development-black?style=for-the-badge&logo=x&logoColor=white"></a>
 #
 <h3>👨‍💻 Languages and Tools</h3>
 <p>
