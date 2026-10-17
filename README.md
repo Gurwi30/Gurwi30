@@ -1,7 +1,6 @@
 # 💫 **Gurwi Works**
 <a><img alt="Discord" width="110px" src="https://custom-icon-badges.demolab.com/badge/-%20@gurwi-005ce6?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://t.me/Gurwi30"><img alt="Telegram" width="125x" src="https://custom-icon-badges.demolab.com/badge/-%20@Gurwi30-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
 [![](https://dcbadge.vercel.app/api/server/BCzbSnZF5Q)](https://discord.gg/BCzbSnZF5Q)
 #
 <h3>👨‍💻 Languages and Tools</h3>
